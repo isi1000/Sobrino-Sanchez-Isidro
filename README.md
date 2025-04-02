@@ -1,4 +1,4 @@
-# Sobrino-Sanchez-Isidro
+# Sobrino-Sanchez-Isidro-PEC1
 
 Este repositorio contiene el código para una exploración inicial del dataset metabolómica extraido del paper "Metabotypes of response to bariatric surgery independent of the magnitude of weight loss". Este dataset es un análisis metabolómico de la respuesta a la cirujía de pérdida de peso de diferentes pacientes según su condición metabólica inicial y contiene múltitud de mediciones clínicas sobre cada paciente.
 
